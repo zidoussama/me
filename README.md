@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Oussama Zid
 
-### 🚀 Full-Stack Developer | Python Educator | Tech Enthusiast
+### 🚀 Full-Stack Developer | Tech Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-zid-910811258/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamazid30@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 💼 About Me
 
-I am a **versatile web developer** and **Python enthusiast** with a passion for building **modern, scalable web applications**. I specialize in the **MERN stack** and deliver efficient, user-friendly solutions that exceed expectations.
+I am a **versatile web developer** with a passion for building **modern, scalable web applications**. I specialize in the **MERN stack** and deliver efficient, user-friendly solutions that exceed expectations.
 
 Beyond development, I'm dedicated to **empowering others through Python education**, offering tutoring and project guidance to help learners master programming fundamentals and advanced concepts.
 
@@ -22,7 +22,7 @@ Beyond development, I'm dedicated to **empowering others through Python educatio
 const oussama = {
     location: "Tunisia",
     role: "Full-Stack Developer & Python Educator",
-    specialization: ["Web Development", "Python Teaching", "IoT Projects"],
+    specialization: ["Web Development", "IoT Projects"],
     currentFocus: "Building scalable applications with modern technologies",
     openTo: "Freelance projects, collaborations, and teaching opportunities"
 };
